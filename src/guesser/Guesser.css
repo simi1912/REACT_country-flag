@@ -1,0 +1,36 @@
+#guesser{
+    text-align: center;
+}
+
+form {
+    padding: 20px 0;
+    font-size: 30px;
+}
+
+ul {
+    display: inline;
+}
+
+li {
+    display: inline;
+    padding: 0 25px;
+}
+
+button {
+    border: 0;
+    border-radius: 7px;
+    background-color: #5d78b4;
+    color: white;
+    font-size: 25px;
+    padding: 7px 10px;
+}
+
+img {
+    width: 500px;
+    border: 2px solid black;
+}
+
+p {
+    font-size: 35px;
+    text-align: center;
+}
